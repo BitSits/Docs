@@ -1,4 +1,4 @@
-Sample Game - Apple e Apple
+Apple e Apple
 ===
 Here is my another [Experimental Gameplay Project] for the theme [Two Months of CASUAL ADDICTION](http://experimentalgameplay.com/blog/2010/06/two-months-of-casual-addiction/). In the game you have to grow an apple tree and lots of apples before you collect all the arrows.
 
@@ -19,7 +19,9 @@ ESC – Will pause the game.
 
 Troubleshooting
 ---
+If you have problems getting the game to run. You should install [.NET Framework 4.0] and [XNA Framework Redistributable 4.0].
 If you have problems getting the game to run. You should install [.NET Framework 3.5 SP1] and [XNA Framework Redistributable 3.1].
+If you have problems getting the game to run. You should install [.NET Framework 4.0], [XNA Framework Redistributable 4.0] and [Windows Installer 3.1].
 
 
 Credits
@@ -45,6 +47,10 @@ Reviews
 - [Best of the Net: Casual Addiction](http://experimentalgameplay.com/blog/2010/07/best-of-the-net-casual-addiction/), Experimental Gameplay Project.
 - [“Apples” (Apple e apple) [archive]](http://www.verycd.com/topics/2841690/), VeryCD.
 
+
+
+[.NET Framework 4.0]:http://www.microsoft.com/en-in/download/details.aspx?id=17718
+[XNA Framework Redistributable 4.0]:http://www.microsoft.com/en-in/download/details.aspx?id=20914
 
 [.NET Framework 3.5 SP1]:http://www.microsoft.com/downloads/details.aspx?FamilyID=ab99342f-5d1a-413d-8319-81da479ab0d7
 [XNA Framework Redistributable 3.1]:http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2
