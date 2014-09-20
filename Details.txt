@@ -1,0 +1,51 @@
+.NET Version	        2.0, 3.5 SP1, 4.0
+Game Studio Framework	GS 3.1, 4.0
+Vertex Shader Version	VS 1.1
+Pixel Shader Version	PS 2.0
+
+
+TODO:
+clash (Alt + Enter = toggle full screen) and (Enter = Menu Selection)
+
+BitSits Framework
+- GameContent
+- GSM
+- Box2D (add Reference to BitSits_Framework)
+- menu buttons
+- GameDataLibrary (add Reference to BitSits_Framework and Content)
+- Misc = Rect ext, Circle, Animation, Ani Player, Camera2D
+
+
+Whie packing remove:
+Folder - bin, obj
+File - .csproj.Release.cachefile, .csproj.Debug.cachefile, Thumbs.db, .csproj.user, .suo
+
+
+Settings:
+Song / SoundEffects [ WMA 10 Pro ] .wma, 128 kbps, 44 kHz, 2 channel, 16 bit CBR
+
+XACT [PCM Uncompressed] .wav 44100 Hz, 16 bit, Stereo 
+
+Expression Encoder 3 Screen Capture Settings	Frame Rate = 30, Quality = 100
+
+Expression Encoder 3 Preset Settings
+	Encode > Video > Mode = VBR Quality
+	Encode > Video > Quality = 100
+	Encode > Video > Size Mode = Source
+
+
+Troubleshoot:
+2008
+1. Microsoft .NET Framework Version 2.0 Redistributable Package (x86) 
+   http://www.microsoft.com/download/en/details.aspx?id=19
+    or
+   Microsoft .NET Framework 3.5 SP1
+   http://www.microsoft.com/download/en/details.aspx?id=22
+2. Microsoft XNA Framework Redistributable 3.1
+   http://www.microsoft.com/download/en/details.aspx?id=15163
+
+2010
+1. Microsoft .NET Framework 4 Client Profile (Standalone Installer)
+   http://www.microsoft.com/download/en/details.aspx?id=24872
+2. Microsoft XNA Framework Redistributable 4.0
+   http://www.microsoft.com/download/en/details.aspx?id=20914
