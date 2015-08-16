@@ -1,11 +1,11 @@
-Apple e Apple
+[game_name]
 ===
-Here is my another [Experimental Gameplay Project] for the theme [Two Months of CASUAL ADDICTION](http://experimentalgameplay.com/blog/2010/06/two-months-of-casual-addiction/). In the game you have to grow an apple tree and lots of apples before you collect all the arrows.
+Here is my another [Experimental Gameplay Project] for the theme [[theme]](http://experimentalgameplay.com/blog/[theme]/). In the game you have to grow an apple tree and lots of apples before you collect all the arrows.
 
 
 Download Executable
 ---
-[Apple e Apple.zip (5.33 MB)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/Apple%20e%20Apple.zip)
+[game_name.zip (5.33 MB)](https://github.com/BitSits/[game_name]/raw/master/game_name.zip)
 
 
 Instructions
@@ -19,8 +19,10 @@ ESC – Will pause the game.
 
 Troubleshooting
 ---
-If you have problems getting the game to run. You should install [.NET Framework 4.0] and [XNA Framework Redistributable 4.0].
-If you have problems getting the game to run. You should install [.NET Framework 3.5 SP1] and [XNA Framework Redistributable 3.1].
+If you have problems getting the game to run. You should install [.NET Framework 4.0] and [XNA Framework Redistributable 4.0].  
+
+If you have problems getting the game to run. You should install [.NET Framework 3.5 SP1] and [XNA Framework Redistributable 3.1].  
+
 If you have problems getting the game to run. You should install [.NET Framework 4.0], [XNA Framework Redistributable 4.0] and [Windows Installer 3.1].
 
 
